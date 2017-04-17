@@ -1,5 +1,8 @@
 # Restful-web-services-with-SpringBoot
 Restful web services with spring boot infrastructure
+# Prerequisites
+1. Java 1.8
+2. Maven latest version
 # Clone the project in git bash
 $ git clone https://github.com/consultantdwaraka/Restful-web-services-with-SpringBoot.git
 <br>
