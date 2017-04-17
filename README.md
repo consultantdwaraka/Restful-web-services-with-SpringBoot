@@ -15,7 +15,7 @@ Unpacking objects: 100% (55/55), done.
 <br>
 Checking connectivity... done.
 
-# Start the application using maven cli
+# Start the application using maven cli (Ensure that maven is installed before ruunign this command)
 mvn clean spring-boot:run
 # Open the browser
 http://localhost:8080/welcome
