@@ -1,5 +1,7 @@
 package com.example;
 
+import static org.junit.Assert.assertTrue;
+
 import com.restservice.RestfulWebServicesWithSpringBootApplication;
 
 import org.junit.Test;
@@ -15,4 +17,8 @@ public class RestfulWebServicesWithSpringBootApplicationTests {
 	public void contextLoads() {
 	}
 
+	@Test
+	public void testMy() {
+		assertTrue(true);
+	}
 }
