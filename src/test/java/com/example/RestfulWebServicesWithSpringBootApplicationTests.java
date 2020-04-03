@@ -18,7 +18,7 @@ public class RestfulWebServicesWithSpringBootApplicationTests {
 	}
 
 	@Test
-	public void testMy() {
+	public void testMegit() {
 		assertTrue(true);
 	}
 }
